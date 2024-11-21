@@ -1,0 +1,1 @@
+This a project where I programmed API to automatically pull data from Crypto website. The application gives the ability to pull data and either append it back into data frame or make your own csv file and append it there.
